@@ -1,0 +1,141 @@
+!SESSION 2016-06-17 13:15:18.935 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-17 13:15:49.418
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-17 13:15:51.342
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-17 13:15:53.219
+!MESSAGE No profile found: default
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-17 13:15:53.236
+!MESSAGE Monitoring content of /Users/dmitriyadvolodkin/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-17 13:15:53.289
+!MESSAGE AWS toolkit core plugin initialized after 1948 milliseconds.
+
+!ENTRY org.eclipse.ui 2 0 2016-06-17 13:15:53.294
+!MESSAGE The 'org.eclipse.ui.startup' extension from 'com.amazonaws.eclipse.elasticbeanstalk' does not provide a 'class' attribute.
+This usage is deprecated and a 'class' attribute should be provided.
+The release after Mars (4.5) will no longer support the deprecated usage!
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-17 13:15:53.294
+!MESSAGE The current accountId is not found in the system. Switching to the default account.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-17 13:15:53.530
+!MESSAGE Initialized a new Cognito identity us-east-1:252f5a8c-901f-4e42-b514-1ba71ab584d8
+!SESSION 2016-06-21 10:57:04.393 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/dmitriyadvolodkin/Documents/Google -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-21 10:57:08.468
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:57:11.134
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:57:12.517
+!MESSAGE Monitoring content of /Users/dmitriyadvolodkin/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:57:12.581
+!MESSAGE AWS toolkit core plugin initialized after 1446 milliseconds.
+
+!ENTRY org.eclipse.ui 2 0 2016-06-21 10:57:12.587
+!MESSAGE The 'org.eclipse.ui.startup' extension from 'com.amazonaws.eclipse.elasticbeanstalk' does not provide a 'class' attribute.
+This usage is deprecated and a 'class' attribute should be provided.
+The release after Mars (4.5) will no longer support the deprecated usage!
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:57:12.588
+!MESSAGE Found valid identity id cache us-east-1:252f5a8c-901f-4e42-b514-1ba71ab584d8
+!SESSION 2016-06-21 10:58:04.472 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/dmitriyadvolodkin/Documents/Google -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-21 10:58:08.548
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:58:10.977
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:58:12.352
+!MESSAGE Monitoring content of /Users/dmitriyadvolodkin/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:58:12.395
+!MESSAGE AWS toolkit core plugin initialized after 1418 milliseconds.
+
+!ENTRY org.eclipse.ui 2 0 2016-06-21 10:58:12.401
+!MESSAGE The 'org.eclipse.ui.startup' extension from 'com.amazonaws.eclipse.elasticbeanstalk' does not provide a 'class' attribute.
+This usage is deprecated and a 'class' attribute should be provided.
+The release after Mars (4.5) will no longer support the deprecated usage!
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-21 10:58:12.402
+!MESSAGE Found valid identity id cache us-east-1:252f5a8c-901f-4e42-b514-1ba71ab584d8
+!SESSION 2016-06-23 15:06:28.339 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-23 15:06:38.000
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-23 15:06:40.953
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-23 15:06:42.221
+!MESSAGE Monitoring content of /Users/dmitriyadvolodkin/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-23 15:06:42.274
+!MESSAGE AWS toolkit core plugin initialized after 1321 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-23 15:06:42.280
+!MESSAGE Found valid identity id cache us-east-1:252f5a8c-901f-4e42-b514-1ba71ab584d8
+
+!ENTRY org.eclipse.ui 2 0 2016-06-23 15:06:42.282
+!MESSAGE The 'org.eclipse.ui.startup' extension from 'com.amazonaws.eclipse.elasticbeanstalk' does not provide a 'class' attribute.
+This usage is deprecated and a 'class' attribute should be provided.
+The release after Mars (4.5) will no longer support the deprecated usage!
+!SESSION 2016-06-28 08:44:46.583 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/dmitriyadvolodkin/Documents/Google -product org.eclipse.epp.package.java.product -keyring /Users/dmitriyadvolodkin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-28 08:44:51.395
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-28 08:44:56.977
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-28 08:44:59.813
+!MESSAGE Monitoring content of /Users/dmitriyadvolodkin/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-28 08:44:59.864
+!MESSAGE AWS toolkit core plugin initialized after 2887 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-06-28 08:44:59.870
+!MESSAGE Found valid identity id cache us-east-1:252f5a8c-901f-4e42-b514-1ba71ab584d8
+
+!ENTRY org.eclipse.ui 2 0 2016-06-28 08:44:59.873
+!MESSAGE The 'org.eclipse.ui.startup' extension from 'com.amazonaws.eclipse.elasticbeanstalk' does not provide a 'class' attribute.
+This usage is deprecated and a 'class' attribute should be provided.
+The release after Mars (4.5) will no longer support the deprecated usage!

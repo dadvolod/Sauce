@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Automatio Test]">
+  <test name="Smoke Testcases(failed)">
+    <classes>
+      <class name="SuperMaven.GmailLoginTC">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- SuperMaven.GmailLoginTC -->
+    </classes>
+  </test> <!-- Smoke Testcases(failed) -->
+</suite> <!-- Failed suite [Automatio Test] -->
