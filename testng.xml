@@ -2,7 +2,7 @@
 <suite name= "Automatio Test">
     <test name="Smoke Testcases">
     <packages>
-       <package name="AliLogin" />      
+       <package name="SuperMaven" />      
     </packages>
     
     </test>
